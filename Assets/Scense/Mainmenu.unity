@@ -481,14 +481,14 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &291542088
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 291542087}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 28527299c4a6312498e5e1c0317ab692, type: 3}
   m_Name: 
@@ -799,7 +799,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &670303848
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1620,7 +1620,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1998587883
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1633,11 +1633,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   srcfish:
-  - {fileID: 1420080244071496, guid: 6e76c468d65716f43acec4f50555a8e3, type: 2}
-  - {fileID: 1508305658460388, guid: 4c7b56892dd737d478020006744be4af, type: 2}
-  - {fileID: 1183182102102196, guid: 77e97a17a80283c4385dba57b81ab568, type: 2}
-  - {fileID: 1793547061029458, guid: f758134b2cdbb7d45988b4b2e5f5c378, type: 2}
-  - {fileID: 1683880844222496, guid: 6cf4e8ce3fbbdb140a77803666825ec9, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   noiChua: {fileID: 294062244}
   soLuong: 50
 --- !u!4 &1998587884
